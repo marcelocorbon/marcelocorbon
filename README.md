@@ -29,7 +29,7 @@ Sou uma pessoa muito criativa e engajada socialmente. Adoro discutir ideias sobr
 
 Se você gostaria de entrar em contato comigo para conversar sobre tecnologia ou qualquer outro assunto, pode me encontrar nas seguintes redes sociais:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelocorbon-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/marcelo-corbon-8738ba201/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelocorbon-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-corbon-8738ba201/)
 - [![GitHub](https://img.shields.io/badge/GitHub-marcelocorbon-black?style=flat&logo=github&logoColor=white)](https://github.com/marcelocorbon)
 - [![Instagram](https://img.shields.io/badge/Instagram-marcelo.corbon-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marcelocorbon/)
 
