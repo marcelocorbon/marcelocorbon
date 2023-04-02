@@ -7,7 +7,7 @@ E aí, beleza? Me chamo Marcelo Corbon, tenho 20 anos e sou estudante de Sistema
 
 ## 🚀 Habilidades
 
-Tenho habilidades em várias linguagens de programação, como:
+Tenho conhecimento em várias linguagens de programação, como:
 
 - 📝 C#
 - 🌐 HTML
