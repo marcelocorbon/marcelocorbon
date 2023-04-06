@@ -1,7 +1,7 @@
-# Marcelo Corbon 🏳️‍🌈
+# Marcelo Corbon
 
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim 🏳️‍🌈
 
 E aí, beleza? Me chamo Marcelo Corbon, tenho 20 anos e sou estudante de Sistemas de Informação. Sou fissurado por tecnologia e acho incrível como essa área evolui cada vez mais. Curto muito explorar diferentes áreas da tecnologia e adoro trocar ideias com pessoas que têm visões diferentes da minha. Afinal, é sempre bom aprender algo novo e ter uma visão mais ampla do mundo, né?
 
@@ -31,6 +31,6 @@ Se você gostaria de entrar em contato comigo para conversar sobre tecnologia ou
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelocorbon-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-corbon-8738ba201/)
 - [![GitHub](https://img.shields.io/badge/GitHub-marcelocorbon-black?style=flat&logo=github&logoColor=white)](https://github.com/marcelocorbon)
-- [![Instagram](https://img.shields.io/badge/Instagram-marcelo.corbon-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marcelocorbon/)
+- [![Instagram](https://img.shields.io/badge/Instagram-marcelocorbon-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marcelocorbon/)
 
 Sinta-se à vontade para me enviar uma mensagem! Vamos trocar ideias e aprender juntos.
