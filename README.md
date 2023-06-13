@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mim
 
-E aí, beleza? Me chamo Marcelo Corbon, tenho 20 anos e sou estudante de Sistemas de Informação. Sou fissurado por tecnologia e acho incrível como essa área evolui cada vez mais. Curto muito explorar diferentes áreas da tecnologia e adoro trocar ideias com pessoas que têm visões diferentes da minha. Afinal, é sempre bom aprender algo novo e ter uma visão mais ampla do mundo, né?
+E aí, beleza? Me chamo Marcelo Corbon, tenho 21 anos e sou estudante de Sistemas de Informação. Sou fissurado por tecnologia e acho incrível como essa área evolui cada vez mais. Curto muito explorar diferentes áreas da tecnologia e adoro trocar ideias com pessoas que têm visões diferentes da minha. Afinal, é sempre bom aprender algo novo e ter uma visão mais ampla do mundo, né?
 
 ## 🚀 Habilidades
 
